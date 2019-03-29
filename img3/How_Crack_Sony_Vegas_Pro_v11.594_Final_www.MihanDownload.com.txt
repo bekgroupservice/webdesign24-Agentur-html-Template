@@ -1,0 +1,89 @@
+A) NOTES BEFORE INSTALL VEGAS PRO 11:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Instructions by tano1221
+>>>>>>>>>>>>>>>>>>>>>>>>
+
+1) Uninstall any previous version of Sony Vegas Pro (even if you have the new version already installed)
+2) Once uninstalled, delete the following folders:
+C:\Program Files\Sony 
+C:\Program Files (x86)\Sony
+C:\Program Files\Sony Setup
+3) Next, open the Registry Editor; click on Start -> Run -> and type: REGEDIT -> then Click in OK.
+In the Registry Editor, locate and delete the following registry entries:
+
+HKEY_CURRENT_USER\Software\Sony Creative Software
+HKEY_LOCAL_MACHINE\SOFTWARE\Sony Creative Software
+
+HKEY_CURRENT_USER\Software\Wow6432Node\Sony Creative Software
+HKEY_CURRENT_USER\Software\Wow6432Node\Sony Media Software
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Sony Creative Software
+HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Sony Media Software
+
+4) Now you can proceed with a clean installation of Sony Vegas Pro 11. Before install, temporarily turn off ALL anti-virus programs, as well as disabling any Registry Blockers, SpyWare, Firewalls, etc. These applications have been known to interfere with software installation and registration.  
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+B) INSTALLATION OF SONY VEGAS PRO 11:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Vegas Pro 10 (32-bit) on Windows (32-bit) - Tested & Working
+Vegas Pro 10 (64-bit) on Windows (64-bit) - Tested & Working
+Vegas Pro 10 (32-bit) on Windows (64-bit) - Tested & Working
+Vegas Pro 10 (32-bit) on Windows (64-bit) - Untested
+
+5) Now install Sony Vegas Pro 11 ( Right click on the installer and select run as administrator)
+6) When the installation has finished, close Sony Vegas Pro 11.
+7) Copy keygen DI v2.0 in installation directory, by default:
+C:\Program Files\Sony\Vegas Pro 11.0
+8) Run keygen (Vista/7 users, run  keygen as administrator)
+9) In Product Name -> Select:
+Sony Vegas Pro 11 (32-bits) if you have Vegas 32-bit
+Sony Vegas Pro 11 (64-bits) if you have Vegas 64-bit
+10) Now hit the "patch" button, in the new window, select the application's directory:  
+C:\Program Files\Sony\Vegas Pro 11.0
+then hit the OK button, if the same window appears again, this time select the Shared Plugins folder:
+C:\Program Files\Sony\Shared Plug-Ins
+then hit the OK button and Wait a few seconds till the process is finished.
+11) Don't close the keygen yet.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+NOTE 1: If you want to close the keygen at least copy/paste the serial number and authentification code into notepad, These codes are work in pair!, so make sure to copy the code correctly, serial number for Vegas Pro 11 starts with 1T4 and authentification code has 54 characters, example:
+
+1T4-4S93-YJYB-XGSJ
+59BT8KL0G-ZDWJXRNKK-DYGMY4HFT-5Y662CXHV-MW3DJWTE4-DHEE2TFS3
+
+( Don't use this code, probably will not work, the keygen needs to identify the ID of your PC to generate a valid code, remember, when you generate serial number, use the same activation code generated with that serial number  )
+
+NOTE 2: If you go to install. directory, for example:
+C:\Program Files\Sony\Shared Plug-Ins\Audio
+and you see alot of files with "bak" extension, this means that everything has been patched succesfully.
+The same patch generates a backup of the original files, if you don't see any file with "bak" extension, that means that nothing was patched, probably you did something wrong. You will find more files with "bak" extension in the application's directory:
+C:\Program Files\Sony\Vegas Pro 11.0
+This will help in determining if your patched process was successful.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+11) After the patched process has finished, start Sony Vegas Pro 11 (Vista/7 as adm).
+12) Copy the serial number from keygen into Vegas Pro 11 (starts with 1T4)
+13) After you passed the serial number form, select "Register from Another Computer" and hit the Next button (twice). You will need to complete a form (Enter Fake Info) .
+Unitck the box: I would like to receive news....
+Tick the box: By Providing this registration....
+Hit the "Next" button, you will be prompted to save the registration data (save the file in any folder).
+14) Now enter the Authentification Code, copy/paste into notepad first and make sure that have 54 characters.
+15) That's all. Initiate Vegas Pro 11 and it should already be activated.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+C) IF YOU WANT TO INSTALL VEGAS PRO 11 (32/64-bit); both on Windows (64-bit):
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+1) Apply all the steps in "NOTES BEFORE INSTALL VEGAS PRO 11"
+2) Install Vegas Pro 11 (32-bit) then Vegas Pro (64-bit) (just install)
+3) Run keygen DI v2.0 ( as adm.), in Product Name -> Select: Sony Vegas Pro 11, and patch both versions (32-bit first or 64-bit first, doesn't matter), but patch both.
+4) Copy/paste serial number and Authentification Code from keygen into Notepad.
+5) Now register Vegas Pro 11 (64-bit) first (enter serial number, register from another PC, fill the form, save the form and enter the authentification code)
+6) Now register Vegas Pro 11 (32-bit) but this time you have to use the same serial number and authentification COde used in Vegas Pro 11 (64-bit).
+
+That's all for the moment.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
